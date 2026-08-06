@@ -1,0 +1,55 @@
+# ======================================
+# Minecraft runtime files
+# ======================================
+
+# ワールドデータ
+/world/
+/world_nether/
+/world_the_end/
+/backups/
+
+# ログ・クラッシュダンプ
+/logs/
+/crash-reports/
+*.log
+
+# サーバー実行時の一時ファイル
+*.lck
+/run/
+
+# キャッシュ・一時ファイル
+/.cache/
+
+# ======================================
+# Server-specific files
+# ======================================
+
+# 初回起動時のEULA同意
+/eula.txt
+
+# サーバー固有設定
+/server.properties
+
+# プレイヤー・権限情報
+/ops.json
+/whitelist.json
+/banned-players.json
+/banned-ips.json
+/usercache.json
+/usernamecache.json
+
+# ======================================
+# Local/editor files
+# ======================================
+
+# packwizから出力した配布ファイル
+*.mrpack
+
+# ローカルに誤って置いたmod本体
+/mods/*.jar
+
+# IDE・OSのファイル
+/.idea/
+/.vscode/
+.DS_Store
+Thumbs.db
