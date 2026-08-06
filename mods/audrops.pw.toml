@@ -1,0 +1,13 @@
+name = "AlmostUnifiedDrops"
+filename = "audrops-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rik5mWU3/versions/iksGqeli/audrops-1.0.1.jar"
+hash-format = "sha512"
+hash = "39d3242d12246901031734ddb66d8ae86b221a7ea1c09584224f11876d1d69085d81ea44b281ebad2db3506a0d3e09f1aeeda7f29879c8d34ef7390ba02f266f"
+
+[update]
+[update.modrinth]
+mod-id = "Rik5mWU3"
+version = "iksGqeli"

@@ -1,0 +1,13 @@
+name = "Applied Soul"
+filename = "appliedsoul-1.21.1-2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8de7576611f6885a0d45dce41ca15bb6645a3f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7653184
+project-id = 1337114

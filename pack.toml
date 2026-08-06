@@ -1,0 +1,13 @@
+name = "Neo Yokohama Race Cource"
+author = "Mecha"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0d76b46385c4588e333a7e24ca49f1a4282993c353e41aa17bef57033999510e"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"
