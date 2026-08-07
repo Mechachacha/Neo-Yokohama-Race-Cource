@@ -48,6 +48,9 @@
 # ローカルに誤って置いたmod本体
 /mods/*.jar
 
+# zipファイル
+*.zip
+
 # IDE・OSのファイル
 /.idea/
 /.vscode/

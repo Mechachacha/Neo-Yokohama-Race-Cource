@@ -3,11 +3,11 @@ filename = "rftoolscontrol-1.21-8.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DQjhR62z/versions/Q6pchzIj/rftoolscontrol-1.21-8.0.2.jar"
-hash-format = "sha512"
-hash = "6ba139d3f9af69584e4d05a82880f5046a84c2452e5b753acd603353811ef875b124da63e69e83448771b19ca736040907e99175b65d7148312cc0dd34e3387a"
+hash-format = "sha1"
+hash = "ff976f8f58feaf6cc101ab2e51fbfaecac3f27ff"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "DQjhR62z"
-version = "Q6pchzIj"
+[update.curseforge]
+file-id = 8256220
+project-id = 250763
