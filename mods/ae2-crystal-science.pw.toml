@@ -3,11 +3,11 @@ filename = "ae2cs-1.21.1-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uJ9afomy/versions/taIhgdOA/ae2cs-1.21.1-1.2.1.jar"
-hash-format = "sha512"
-hash = "62909ad42aa6b2f726984ec9552621e2ad01a425050a69fef6fc8d816ede33395aaecb63de2db9f8216286c011b804b9eaeaafa851e7ef39e9743f810459b72f"
+hash-format = "sha1"
+hash = "affe0184797cb4dc18eb31ef68ace9a98bfebb06"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "uJ9afomy"
-version = "taIhgdOA"
+[update.curseforge]
+file-id = 8498888
+project-id = 1435174
