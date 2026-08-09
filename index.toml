@@ -453,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "9441e0a305d19725ed73bfe5199263bc1617e7fffc67bd56534ef89a294535ed"
+hash = "c0788e2fde5c68eb046fcdf14ad0e4882325c8a4988a67eb3631d752b509b762"
 metafile = true
 
 [[files]]
@@ -1014,6 +1014,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b0364f6b95f6ed837239c232bad0e2d7317e58f0e4c040e66a4f533239d5775e"
+metafile = true
+
+[[files]]
+file = "mods/modflared.pw.toml"
+hash = "d88854237dd44470818cdc37e9e50d9ecae53406894fda5eb297ab91c51634ed"
 metafile = true
 
 [[files]]
