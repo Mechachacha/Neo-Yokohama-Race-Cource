@@ -1,0 +1,13 @@
+name = "Snad"
+filename = "Snad-21.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e250ce97139cac78664e6723df226d21066a715"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6538271
+project-id = 241344
