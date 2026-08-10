@@ -369,6 +369,11 @@ hash = "86cf2ae835b8f3d981af2e88a4d19fdc3dc4f5aa3904c6ba30e25d77d3e9fcbb"
 metafile = true
 
 [[files]]
+file = "mods/camol.pw.toml"
+hash = "5fbd5fb143ffbd2ea884f8738737eb5eba91f35bd23746b1bd055a41dfc5a4e9"
+metafile = true
+
+[[files]]
 file = "mods/caramel-chat.pw.toml"
 hash = "2356e35c072559218473fce6c76c9a8267f133e76ae74a5c2b85fab7efe2a25f"
 metafile = true
@@ -1321,11 +1326,6 @@ metafile = true
 [[files]]
 file = "mods/mekanism-advancedgenerators.pw.toml"
 hash = "de6737b9e80f77aa0a27cbba31e7b8ebdbb2476d9ca1ef9922c3df92b98d7df0"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-covers.pw.toml"
-hash = "086b0516d3536cdfda491ddf429d564aec290986811b7d023b67cbfd162ed3c9"
 metafile = true
 
 [[files]]
