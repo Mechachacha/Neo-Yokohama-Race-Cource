@@ -374,10 +374,6 @@ hash = "2356e35c072559218473fce6c76c9a8267f133e76ae74a5c2b85fab7efe2a25f"
 metafile = true
 
 [[files]]
-file = "mods/caramelChat-mc1.21.1-neoforge-1.2.2.jar"
-hash = "07418cca73aa3020edd1f3da548648afc532fe2b01822a0405eb3672c16639a6"
-
-[[files]]
 file = "mods/carbon-config.pw.toml"
 hash = "7d8d362d339e27a8ff435326fe98cf340833d69678cbb9c593be545e669a2227"
 metafile = true
@@ -396,10 +392,6 @@ metafile = true
 file = "mods/cb-multipart.pw.toml"
 hash = "87285fe8cbdea7f92729fbd52d3a665da1ef33897697c652f1707746a415c7cc"
 metafile = true
-
-[[files]]
-file = "mods/cc-tweaked-1.21.1-forge-1.120.0.jar"
-hash = "81a903710d109d129c249c105695a96f4bad5e0acf7068920fb191ba791c14ce"
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
@@ -777,11 +769,6 @@ hash = "9d57226d00a2f158b501f3b8bbb1028eaef8f0584157d64350b71aa75494e5e2"
 metafile = true
 
 [[files]]
-file = "mods/expanded-ae.pw.toml"
-hash = "33952cd52e685a902834d7397dd8bda363e36a42d7126a92f3daf5f9d523411c"
-metafile = true
-
-[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "264eddc40fa431a57c829b3154eed8352000432397d30cac046a0659355aaf6d"
 metafile = true
@@ -869,6 +856,11 @@ metafile = true
 [[files]]
 file = "mods/flerovium.pw.toml"
 hash = "fa95bbb1ea92272604ea577e447269a3c6d9370b704b41276ea7f5bf550f7833"
+metafile = true
+
+[[files]]
+file = "mods/flib.pw.toml"
+hash = "e3a629fe7b4cfb64098081c43cc32796bb25c06179b0ce80410c976d2c285cca"
 metafile = true
 
 [[files]]
@@ -1054,11 +1046,6 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "fd651144cba653aa3188898299d37b349ed0f8411f5e051894ee378ad6429a26"
-metafile = true
-
-[[files]]
-file = "mods/iris-flywheel-compat.pw.toml"
-hash = "0fdf6b750585fa663bcedc6e515bd5ae846d41d5e52e1006ac58ef8753bc1b09"
 metafile = true
 
 [[files]]
@@ -1762,11 +1749,6 @@ hash = "56c47f4f4732d86a144c8c86af80411238c3ea74f6b96b0bc5174d2f20073a98"
 metafile = true
 
 [[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "83408ba238e8eceb8218f8198f55cee3abda983c697e2acd6f4d722b0e9cfce2"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
@@ -2014,11 +1996,6 @@ metafile = true
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "7c6f2e38a6932f846738747fd6cff3af239748a84e89350f6c967c8ac72a65d6"
-metafile = true
-
-[[files]]
-file = "mods/yuushya-townscape.pw.toml"
-hash = "27a9c4afcdbfaf09c4c5ebf39563ae1000f631ad87a69b2166061bc873837e92"
 metafile = true
 
 [[files]]
