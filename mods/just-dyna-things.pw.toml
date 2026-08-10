@@ -1,0 +1,13 @@
+name = "Just Dyna Things (Just Dire Things addon)"
+filename = "justdynathings-1.20.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc66ed92b51e4cd1813b70cd1325eb1312db0c16"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8536787
+project-id = 1189855

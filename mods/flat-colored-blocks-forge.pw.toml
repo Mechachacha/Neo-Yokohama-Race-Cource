@@ -1,0 +1,13 @@
+name = "Flat Colored Blocks - For Forge"
+filename = "flatcoloredblocks-neoforge-21.1.16.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8af75c38cdd1773b583814bcd80187f4ffc99207"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6293435
+project-id = 238590
