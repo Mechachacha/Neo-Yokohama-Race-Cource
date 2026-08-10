@@ -369,6 +369,11 @@ hash = "86cf2ae835b8f3d981af2e88a4d19fdc3dc4f5aa3904c6ba30e25d77d3e9fcbb"
 metafile = true
 
 [[files]]
+file = "mods/caramel-chat.pw.toml"
+hash = "2356e35c072559218473fce6c76c9a8267f133e76ae74a5c2b85fab7efe2a25f"
+metafile = true
+
+[[files]]
 file = "mods/caramelChat-mc1.21.1-neoforge-1.2.2.jar"
 hash = "07418cca73aa3020edd1f3da548648afc532fe2b01822a0405eb3672c16639a6"
 
@@ -395,6 +400,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked-1.21.1-forge-1.120.0.jar"
 hash = "81a903710d109d129c249c105695a96f4bad5e0acf7068920fb191ba791c14ce"
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "e42363c32c9b6323eea977283c928cec373bfc415534ec92e9c3367ee8c54256"
+metafile = true
 
 [[files]]
 file = "mods/cha-s.pw.toml"
