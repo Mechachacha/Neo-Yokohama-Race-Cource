@@ -25,6 +25,30 @@ hash = "d5bbf1d80ecd2261d38311b897469fdd2dd48029bc520193bfefbc4407f5cc81"
 metafile = true
 
 [[files]]
+file = "config/almostunified/unification/materials.json"
+hash = "32abff31a16a71180d72ab5f7a0c74875eb7affaa86a607272f5ff1668a5cb8c"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "8cc7c7abb485d30acd5ee080c87f3fbb5c5138c9751de9140d9a464981a68629"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "5897e7e64cdf5292208bdfb6f99b63f396507a55af5b7fc5af5687a207430b9b"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "4b3373dff7b26c08a681fdf897a934b98d272d38aa849941adcf9670fb4b31c4"
+
+[[files]]
+file = "config/mysticalagriculture-common.toml"
+hash = "f8eb02e4670dbeca1ebaa057a7206a939a2f45d917350f71bfac5876f03be63d"
+
+[[files]]
+file = "config/productivebees-server.toml"
+hash = "8f28845e53e6c6564cf65c49fe6933dbc743730533fe478c008d8bc6863b94f6"
+
+[[files]]
 file = "icon.png"
 hash = "49f961b9e7d2c7bcd93485f850aa1cbcbf01e897b97898521447be96de786932"
 
@@ -491,11 +515,6 @@ metafile = true
 [[files]]
 file = "mods/compact-machines.pw.toml"
 hash = "dc42384932c78a1ee818af8d8535b51ebd836c6d1f13f3171d9bd83985565f04"
-metafile = true
-
-[[files]]
-file = "mods/compact-mekanism-machines-unofficial-edition.pw.toml"
-hash = "964ebd798188604fbe4269c831dc61a1348b4f95b82b1c2e01b19a73c71107e3"
 metafile = true
 
 [[files]]
