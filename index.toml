@@ -738,6 +738,11 @@ hash = "e2271f01117b2e3469832199b0830aacd678be821b4a4121fadd1805e0256195"
 metafile = true
 
 [[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "f178041b025b0c1940f13f87faea1c13ea485199eed6658188e03f205837d4bd"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "32078c39569bbb4b33d2d86a09cfc18a9f5b63a11d0ba2b186fd07341e422c92"
 metafile = true
@@ -1975,6 +1980,16 @@ metafile = true
 [[files]]
 file = "mods/trenzalore.pw.toml"
 hash = "039e7ae16a557bb428b64eaa6d9fe69b65b1b11ca00430922eb0962fa88c233a"
+metafile = true
+
+[[files]]
+file = "mods/untranslated-items.pw.toml"
+hash = "a6c5551929fe9e715ebb49047beb1da0238c55e409679f2701ab00429861051e"
+metafile = true
+
+[[files]]
+file = "mods/untranslateditems-alsofluidsandchemicals.pw.toml"
+hash = "2a6b8067002228fe978e2216ce54e702fd98a8e7bd3b94e05f6789475645336b"
 metafile = true
 
 [[files]]

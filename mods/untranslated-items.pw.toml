@@ -1,0 +1,13 @@
+name = "Untranslated Items"
+filename = "UntranslatedItems-neoforge-1.21.1-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4678373d336117617c7a03ceb6264c236ba9a399"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8393319
+project-id = 401770

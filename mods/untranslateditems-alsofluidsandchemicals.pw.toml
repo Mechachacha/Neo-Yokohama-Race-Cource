@@ -1,0 +1,13 @@
+name = "UntranslatedItems: AlsoFluidsAndChemicals"
+filename = "uti_afac-1.2.0+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ccb4233e8dcf4060460b27f7aa8c2bbb71d84f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6427711
+project-id = 1071634
