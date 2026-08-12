@@ -449,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/chloride.pw.toml"
-hash = "144d4bd742122408670a1453c889191a15cb4a7912956dbe8db6518fe1a26b2f"
+hash = "7d885274400fb6f59e64b9fdabf05d2efc4a608427b26da6c2c45190321589d3"
 metafile = true
 
 [[files]]
@@ -1689,7 +1689,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "8f47f534372061308021b082fe67802a0bb6cb323e1dbbeb911c461b4cfe0518"
+hash = "9a8c2546447303b4dde1862ef1e358a1728f60845e029e9ca6ddaa622b618b53"
 metafile = true
 
 [[files]]
@@ -1839,7 +1839,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "c4ebb45eb6e49b9e6a1dfcbae4f7b67da70088f7e672a70d1fff2308d72ff9bc"
+hash = "36fe43b253614ca6396e85698d0760f1a586e551a85fbc42f206144d41216019"
 metafile = true
 
 [[files]]
