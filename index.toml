@@ -679,7 +679,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.pw.toml"
-hash = "c49a7dff3e52d696cc632ed5602870b396b43eb800c4f448fa0d82cd066463f0"
+hash = "b210a17a51e1143ce69dd2adc9f4d4ff7c13775721a2067be6ca6712cb76fd71"
 metafile = true
 
 [[files]]
@@ -1474,7 +1474,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+hash = "057044d2179d9e10b616ef8fa4cc870ad350842fc5c325ce0b3766160852cd13"
 metafile = true
 
 [[files]]
