@@ -1,6 +1,6 @@
 name = "MakeUp - Ultra Fast | Shaders"
 filename = "MakeUp-UltraFast-9.5c.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
