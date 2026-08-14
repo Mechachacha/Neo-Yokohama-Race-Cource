@@ -5,7 +5,8 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "ff5f0411a3d82e15d69b65617128f6d54e818e1b"
-mode = "metadata:curseforge"
+mode = "url"
+url = "https://edge.forgecdn.net/files/8156/977/Design-n-Decor-1.21.1-2.2b.jar"
 
 [update]
 [update.curseforge]
