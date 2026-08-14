@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "makeup-ultra-fast-shader.pw.toml"
-hash = "90608be59b2fdc5baed77feb982fdd89ecab1f3361800af0ad3b977d3e5242a4"
+hash = "bf0ecd1d769e20548114371a07bd44094a2a9de5d47435d65b595fc0697c10c8"
 metafile = true
 
 [[files]]
@@ -603,6 +603,16 @@ hash = "e3304daa476fa3ac90a018720d190fd366cf6e20e9ce33b5aa8d16b40eaf3446"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "900880f684238d2489dc6859c354abc7b145c617dbdac42e1873604632b9c831"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "1c4ef917261df03afd366b0c34307ee0fa06374b52b8e88378ce7205ab58d4e1"
+metafile = true
+
+[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "87cc67538d60973cf296adf7cd6f198b2aa2ffb5a2a17e3ce9977c0cd05ddcef"
 metafile = true
@@ -618,8 +628,33 @@ hash = "80b45db88c3ffdf400cfe56bc5828a43637bab64f28ce1a83d14f8669387553d"
 metafile = true
 
 [[files]]
+file = "mods/create-escalated.pw.toml"
+hash = "040e5ed9eafedf380f2dcf058efd2cc2a15d5cdfe29a49b7ef41b21c6d935f75"
+metafile = true
+
+[[files]]
 file = "mods/create-factory.pw.toml"
 hash = "81feac4e7db72adbec39b6b5e62fd54ba6bd6b4cbc30cb8761755a81ad6803d3"
+metafile = true
+
+[[files]]
+file = "mods/create-pantographs-and-wires.pw.toml"
+hash = "bcf4e5fd635c22442ff0317a2b41ff6a2f4109cba2917bb413ff0c24d787345f"
+metafile = true
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "933542ef6b68b15a91e20f9d87cb1f03546d0081b12c2e489df860fd47b3be28"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "0c54dcc8b75965f7d0faf9b7f9b833ef0e7a214a56c740d1ee7baff4467d0819"
+metafile = true
+
+[[files]]
+file = "mods/create-trainutilities.pw.toml"
+hash = "b8a8f76c385c2999af18e18ae4b3a419092874ad77b1bd3d60cfce369ad48293"
 metafile = true
 
 [[files]]
@@ -705,6 +740,11 @@ metafile = true
 [[files]]
 file = "mods/draconic-evolution.pw.toml"
 hash = "bc1d52bd43eace5fe032e8815df90323adcc82ab765d382d5d4a536eee3a0f06"
+metafile = true
+
+[[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "d2abefd9997328f0fdc8b36f9386438bee89889f58e878f290e9a9c8db8b1b5c"
 metafile = true
 
 [[files]]
@@ -1145,6 +1185,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap-integration.pw.toml"
 hash = "20202d3155a9c99848a2aa34648766d909538346a6f996d284e6fa2e1569e39e"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-web-map.pw.toml"
+hash = "d6d2477b9f65f4493eb767051ee354d7a792762b5ca55955f1ef606d429ceef7"
 metafile = true
 
 [[files]]
@@ -1880,6 +1925,11 @@ metafile = true
 [[files]]
 file = "mods/soulplied-energistics.pw.toml"
 hash = "e342fd17fd38de4d0367e8d6b308df7b113e3a8d0d01e0b55048e53ee0177a8a"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "b9d4d42709629f2d52cb9d33bedf298bbea635b53f69946f9ec2735c47dfbd83"
 metafile = true
 
 [[files]]
