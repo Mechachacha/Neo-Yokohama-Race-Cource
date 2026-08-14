@@ -6,22 +6,22 @@ hash = "2de50218b059fec82737fa67810a3454679cd6167871f767081105f6969d6225"
 
 [[files]]
 file = "bliss-shader.pw.toml"
-hash = "f27ca42de7b92a90cf387dbed38bbdb33013201a7cf5b2723a9830b3120634e0"
+hash = "960ff0bf24fac909dd6c99fc7a3630d833c21937c07f2c713c8b43ba308185bc"
 metafile = true
 
 [[files]]
 file = "bsl-shaders.pw.toml"
-hash = "4a5ea44fb3e87c430dbb19df9587ec93bd189ea1a12a15ed190dde3cf5a5cf13"
+hash = "b34a8fe09536b089aaab8f625bda116047271e3cb44a7c9f5c2eea7aaadc4f30"
 metafile = true
 
 [[files]]
 file = "complementary-reimagined.pw.toml"
-hash = "335d3e0f28b42381f929c9997dd188cd656178904833c2d1b01dfd3e098b0569"
+hash = "8564732f041e5d269986d6a035b5e4d93e3c676d0806abb0c908f29d40293bbb"
 metafile = true
 
 [[files]]
 file = "complementary-unbound.pw.toml"
-hash = "d5bbf1d80ecd2261d38311b897469fdd2dd48029bc520193bfefbc4407f5cc81"
+hash = "d61f472861748619ff7298d8bc38bd5f2dcafe31e1e9d1da7c8563ee3c99b1a5"
 metafile = true
 
 [[files]]
@@ -54,12 +54,12 @@ hash = "49f961b9e7d2c7bcd93485f850aa1cbcbf01e897b97898521447be96de786932"
 
 [[files]]
 file = "insanity-shader.pw.toml"
-hash = "5408f2e2dc93c0ad15ceee15bd6370e1ad052887df7ef1a6c8188fd1a049b3d1"
+hash = "fac24b0a875dae1d7a19aafb398f33ed74723054eef87dec4cfd43c2ebf06c9b"
 metafile = true
 
 [[files]]
 file = "makeup-ultra-fast-shader.pw.toml"
-hash = "0cef58b04415568cb831f8a033e2510b9fee5cd3406f0f4bfd636ba0ef51d610"
+hash = "90608be59b2fdc5baed77feb982fdd89ecab1f3361800af0ad3b977d3e5242a4"
 metafile = true
 
 [[files]]
@@ -133,8 +133,18 @@ hash = "571293a6ddb6b5ea7b9c1f5454d0cfc584a5aa50397942bea4906d3b54e02e02"
 metafile = true
 
 [[files]]
+file = "mods/ancient-reforging.pw.toml"
+hash = "2be87718eba4e6dc46f2f12d52b9364c50f9b0cffb6afac9266479b4280d66db"
+metafile = true
+
+[[files]]
 file = "mods/angel-ring.pw.toml"
 hash = "8aac17572b78194ed9e51bb0e9f06d6e65ada660958fcd40c1dcf205dfe70f13"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis-x-irons-spellbooks-compat.pw.toml"
+hash = "718d0e1c9f6ed0adc4710e5f49ebef8c4cde898c28b6a22459217bdfb4a59f2e"
 metafile = true
 
 [[files]]
@@ -239,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "039ca1864afaf11b12e0c8ec21bb9f5bffa77a6d776bd3c0e56b8f7f8c77f7fb"
+hash = "1a0d6c308340afc108e46d76bbcae162b0106e1c158da6e9108168b5991528f9"
 metafile = true
 
 [[files]]
@@ -384,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me.pw.toml"
-hash = "d796a61a385f70084c5fb5586fc9cbe44ff47e8e27924dff8f541330123380b5"
+hash = "11c382f89c09ef0e8c35207f6e177380ffa5a5b3cbad9652ccf9b0eb6737dae5"
 metafile = true
 
 [[files]]
@@ -559,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "e4aec65fd9c720febf3866b63f4f95c0ca03d8d79b9d09522dad9e5de18c14d8"
+hash = "a4fc261260931f28bd822521ffa4082fb685cd79f1ae766d1407e9ca5be6a43e"
 metafile = true
 
 [[files]]
@@ -594,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "ad5d6dd127aa6ff7e8881491be181d68702aede317297d1650b257b41a9c25e6"
+hash = "87cc67538d60973cf296adf7cd6f198b2aa2ffb5a2a17e3ce9977c0cd05ddcef"
 metafile = true
 
 [[files]]
@@ -604,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "e66465de78c0190cf4725419c0cf1a478f94f964d626f495e5652705cd06a863"
+hash = "80b45db88c3ffdf400cfe56bc5828a43637bab64f28ce1a83d14f8669387553d"
 metafile = true
 
 [[files]]
@@ -909,7 +919,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "0141bc647b652e57375c9ce070a511f68b0bd24fe601c410c1a45dac9e8d443c"
+hash = "5ae2ef29e07ff530532d806c67145f1f0e81aeb83f728c04bf66af2fabff9f55"
 metafile = true
 
 [[files]]
@@ -1039,7 +1049,7 @@ metafile = true
 
 [[files]]
 file = "mods/in-control.pw.toml"
-hash = "38ad3e2d199cc5185c5f93031ad9c7f045453b61b35639ae03e62306df215588"
+hash = "313ec73e545755e5cb1ea72dd38b632587e32a9e0d5e73b714d00fe4feb9a0d4"
 metafile = true
 
 [[files]]
@@ -1159,7 +1169,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-dyna-things.pw.toml"
-hash = "ee9872fbf2606a618deeaf213fc441f2d5b94d0a0c74ffaa16b76fe4edd9e861"
+hash = "93120787ec9b929ad60f9a8c6f96bb741b48543b35fa0da45c66e1877c80b97e"
 metafile = true
 
 [[files]]
@@ -1854,17 +1864,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "d5e61ca26d562d8b132834ebedc7301941e2d0016115ce94c05ef4e6cb2f9dd1"
+hash = "e0b6633da8a264e0d9f42d7029b50f8a36ad212d69908a4e53a85f4314afa6c4"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "f2e22f385c41a6807417ebfd995508d81cb8021867f60f0285e48a6f46a0a845"
+hash = "29cd82becb0fb467501fbbd652f38a77007c76c7b1ac81569177a7fdf26028ee"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "8a4dade9bae6ffbe538800809ca37bef0df502cd3ae7dd6f891cc02e47d6c5cf"
+hash = "3746aa46f9b38b73466f3fab0b55aa138ff0e7eb399917bf9395858040a60d06"
 metafile = true
 
 [[files]]
@@ -2003,6 +2013,11 @@ hash = "61387d427f7c5bfd71df275f731384b70ae12f6b1e520ee9e232ae8c175d42bd"
 metafile = true
 
 [[files]]
+file = "mods/wolfs-ancient-iron.pw.toml"
+hash = "1f6d0ae79692e8ecd73b86e68e851fe3f7cf04f40a809796389fa0085386fbc6"
+metafile = true
+
+[[files]]
 file = "mods/wooden-shears.pw.toml"
 hash = "d516889b3ce64510108e5961a42c96f832ce1ed35544d29b35d421a8881b6dbf"
 metafile = true
@@ -2029,10 +2044,10 @@ metafile = true
 
 [[files]]
 file = "sildurs-vibrant-shaders.pw.toml"
-hash = "56fe2bd5200e8067be11d9b876e8aa6a4f23b73427d2457f9cffe6d639236f02"
+hash = "b5116a9c20cadafbabc10368a2457636226904b0cca30b3594383ea202dd4f92"
 metafile = true
 
 [[files]]
 file = "solas-shader.pw.toml"
-hash = "c49076b6a9c86b2de278d4cd373a312e6e4ead76d93dc4b8df6e24dfca43a529"
+hash = "a8ddf95f3bebb4336e8ee11c88dbe9fa20b1cf9c91e0a3b0f7a120f137402a39"
 metafile = true

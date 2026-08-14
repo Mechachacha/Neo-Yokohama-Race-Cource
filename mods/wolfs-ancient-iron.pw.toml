@@ -1,0 +1,13 @@
+name = "Ancient Iron"
+filename = "wolfsancientiron-1.1.2-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ee3f70b78fa93958bb1854afd54366d9f86a764"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7161907
+project-id = 1368703
