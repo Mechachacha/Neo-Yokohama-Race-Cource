@@ -1,0 +1,13 @@
+{
+  "name": "Entro",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "extendedae:entro_crystal"
+  },
+  "color": "65e883",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_rock",
+    "essence": "mysticalagriculture:item/essence_quartz"
+  }
+}
