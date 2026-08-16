@@ -654,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-factory.pw.toml"
-hash = "81feac4e7db72adbec39b6b5e62fd54ba6bd6b4cbc30cb8761755a81ad6803d3"
+hash = "85ac7b139b916412f6d95b3686d144871a363774a8d1159b9e527d23ad8a8f72"
 metafile = true
 
 [[files]]
@@ -938,11 +938,6 @@ hash = "d17382ebb5d2d2f7e56e9fbb71b4b9d7ec9a61134dec3de9ef8bfaab876c205a"
 metafile = true
 
 [[files]]
-file = "mods/flat-colored-blocks-forge.pw.toml"
-hash = "b36903f761d06961eacb9ef849873e071bae3a65957fc4e2c33539322e64b607"
-metafile = true
-
-[[files]]
 file = "mods/flerovium.pw.toml"
 hash = "c8786a591f3504188b50e62fa6a76702be4ce507c16f19deb9fdbcbb41a13386"
 metafile = true
@@ -969,7 +964,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "5ae2ef29e07ff530532d806c67145f1f0e81aeb83f728c04bf66af2fabff9f55"
+hash = "06abd40cb1563c96a738c1218a2d948f98affca27ea5319c680db94e694aac3a"
 metafile = true
 
 [[files]]
@@ -1199,7 +1194,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "92a1bcde382f38109826b42da59538a00dfd1509b282939c62369b9a97e715fa"
+hash = "eb38fb4e5d07b2f9a9777022abc12720ba9533c75cfd0cc0309002a432872545"
 metafile = true
 
 [[files]]
@@ -1289,7 +1284,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "d48948d8dbdf7ca96c4bc34be4aed08313d3a7707acab9ed12fb894b470bce58"
+hash = "1230e34068ee372b6991b094e2265c5b4a0d3b99df900df682a3f7e10c5db0ec"
 metafile = true
 
 [[files]]
@@ -1839,7 +1834,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "95516744b74966dd45af61f3e9952d1bed0642a3111afcf1788a15629c3ed614"
+hash = "ddcc2fd889f5bd73c2b3c8c9f5b798cc26c0c5b6c068da264ffa44bb401a0cf7"
 metafile = true
 
 [[files]]
@@ -1884,7 +1879,7 @@ metafile = true
 
 [[files]]
 file = "mods/sinytra-connector.pw.toml"
-hash = "9b0e047e00acb875ec792bcf6ccceac0d5055bc215e7ce3d3d3b26949fb483d4"
+hash = "161d6ad57ed27debb9107d48b0a8de76bc60e41e9d41650efe4bfa080d86e2e8"
 metafile = true
 
 [[files]]
@@ -1919,12 +1914,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "29cd82becb0fb467501fbbd652f38a77007c76c7b1ac81569177a7fdf26028ee"
+hash = "9ee0490b06b36ba9bff93af9f75493f3dd4e71a1ab8ce4ee778ee5fdb11eb49c"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "3746aa46f9b38b73466f3fab0b55aa138ff0e7eb399917bf9395858040a60d06"
+hash = "b523ab242b94170321935199b1e0a406df1982af891423b970acd10687c9103a"
 metafile = true
 
 [[files]]
