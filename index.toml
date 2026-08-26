@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
-hash = "95260471eefa73e63432e990724810d0f6e9fa5e5fca1cbc4dd8124263330c8a"
+hash = "d4a3261434a4ff2e9822644504c236578693dceac50e7af6eb5f54e82171704c"
 metafile = true
 
 [[files]]
@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/apothic-enchanting.pw.toml"
-hash = "1c5cbffb4e5dc40c83437c37ed6be96d8a4f152053e9bb01681b867ab326ce38"
+hash = "a3badcd3b68b3754c6a32dd37835d3fca06e1bc975e32c1b9bc3708ee9b82458"
 metafile = true
 
 [[files]]
@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-soul.pw.toml"
-hash = "48c909d5fd9596ac713bbd990ae3b365bf4713097d75f95cf419358efa4693e2"
+hash = "5a33315ad339356a4c974869b3f9bcaae4f5ad9d2a3876d398be7b97e54e50a8"
 metafile = true
 
 [[files]]
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "f0aa35028d210e4c3b87e3029520dea9ead7db9d639e97faad2db374f6a9b2c1"
+hash = "a35c812005762698c71c87d55c26745ea4dd244c1ef5f2df19f0a78ae04c575d"
 metafile = true
 
 [[files]]
@@ -599,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "cad73edce18159c6d65b53bbe11dfdcce26ebb90bb74ff015aef84539f483530"
+hash = "18b3bb82c19b94650320ad735ed4c033c9831e42ebf5abebca58d12f638807a8"
 metafile = true
 
 [[files]]
