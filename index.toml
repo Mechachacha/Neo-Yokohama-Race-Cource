@@ -1409,7 +1409,7 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-extras.pw.toml"
-hash = "4b2fc476954ead3160d38c31db6c8007afd6f2b3aa82371c2e52b4cd2a4c56bf"
+hash = "69486ec13c1760ed233275a6cd92219a435826806e4a668131cc06e7ec3b5d07"
 metafile = true
 
 [[files]]
@@ -1424,7 +1424,7 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-more-machine.pw.toml"
-hash = "6dc4590928f3e3d5a432aeb094e0f7ee629b4bbad359cbe7f670edde26352b9a"
+hash = "035224b23bc13f2eb7b7b1b952c41af7ab1d0c0eca33eed874b8ca7f066c32c8"
 metafile = true
 
 [[files]]
