@@ -269,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "1a0d6c308340afc108e46d76bbcae162b0106e1c158da6e9108168b5991528f9"
+hash = "09284b097fe3ba4af326a13ef65ddddcc4ac3b55c2eeaa08190a444160380a8f"
 metafile = true
 
 [[files]]
@@ -360,11 +360,6 @@ metafile = true
 [[files]]
 file = "mods/blockui.pw.toml"
 hash = "05abf6fafe4a8adf5aaa24f09b7dedfbe199a8727d925e816fc608d6357f5ba8"
-metafile = true
-
-[[files]]
-file = "mods/boat-break-fix.pw.toml"
-hash = "f60a63c3251ebf33f6636e5fd773f281d3f09b3a273e346b1d2547cc0c67559b"
 metafile = true
 
 [[files]]
@@ -550,11 +545,6 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "9920b3cadb064073516f8d678e09c0d13a146bc3058725d036323852e5e18f15"
 metafile = true
 
 [[files]]
@@ -868,11 +858,6 @@ hash = "5ebe1bdbae796bf4c35021fef02039ddba4b41fb8138954f2d8a2fb1639f8597"
 metafile = true
 
 [[files]]
-file = "mods/extra-hostile-neural-networks.pw.toml"
-hash = "96e75faebfad9117c697dc62d808c31b010bfd30559c2d692d98a3e95848497e"
-metafile = true
-
-[[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "6d51c8adfc6782f216a150dedda2ea64969a639f4e21401eb5c5b5ac8c9ab28f"
 metafile = true
@@ -1179,7 +1164,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap-web-map.pw.toml"
-hash = "d6d2477b9f65f4493eb767051ee354d7a792762b5ca55955f1ef606d429ceef7"
+hash = "dab74dc5d13a222799bba13e4a48e9938647c56c97459539ab9799bc6b535e67"
 metafile = true
 
 [[files]]
@@ -1629,7 +1614,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "2253cddf1e9a3778a893e47442378fdeea5b5604bc131b61acfcd25d1e690613"
+hash = "fe21545aa6086d1b66d96cbd050111d887ecb9bb298a547e6a772f91c5745e74"
 metafile = true
 
 [[files]]
@@ -2078,11 +2063,36 @@ hash = "7c6f2e38a6932f846738747fd6cff3af239748a84e89350f6c967c8ac72a65d6"
 metafile = true
 
 [[files]]
+file = "resourcepacks/excalibur.pw.toml"
+hash = "911b8fac8cbde2f41842ecdc1d139da3ee4d42ab84f40507c04d9e09cfbe3e5e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-block-transitions.pw.toml"
+hash = "29e7e41a66e1c26606f33d59912139cd534ab14ef2c70bbba1da81702716422e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-connected-blocks.pw.toml"
+hash = "942b34e75be36a1d29a84f5883ef900ef1d1fb93ea065bdc5877351f4334281b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-connected-glass.pw.toml"
+hash = "9558758e85c4d4e25da6c62d2381e24de2794f1307136ee9b4be98ed32baf6ad"
+metafile = true
+
+[[files]]
+file = "resourcepacks/motschens-better-leaves.pw.toml"
+hash = "64f039cd9df9f8612bebe1547596ba8f7e035524dac93564eead9ef0e504bc0b"
+metafile = true
+
+[[files]]
 file = "sildurs-vibrant-shaders.pw.toml"
 hash = "b5116a9c20cadafbabc10368a2457636226904b0cca30b3594383ea202dd4f92"
 metafile = true
 
 [[files]]
 file = "solas-shader.pw.toml"
-hash = "a8ddf95f3bebb4336e8ee11c88dbe9fa20b1cf9c91e0a3b0f7a120f137402a39"
+hash = "7f8e310813efa94223fc589c633842f0252e71030bd1f61c995b33633417a28b"
 metafile = true
