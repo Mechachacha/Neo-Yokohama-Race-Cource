@@ -1,13 +1,13 @@
 name = "Integrated Terminals"
-filename = "integratedterminals-1.21.1-neoforge-1.8.0.jar"
+filename = "integratedterminals-1.21.1-neoforge-1.8.0-841.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "52e8a502dea72e05017703d78cfed4f8278a91ba"
+hash = "75877269f8da44efa1cf55f07d18fe89b29b80d0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8726055
+file-id = 8770243
 project-id = 295910

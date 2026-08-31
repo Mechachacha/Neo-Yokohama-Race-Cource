@@ -1,13 +1,13 @@
 name = "Psi"
-filename = "Psi-1.21.1-108.jar"
+filename = "Psi-neoforge-1.21.1-109.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "06de9320d0b9fe7b0389a24008e131d95de5000c"
+hash = "459dc8b6943104b13f1f83337c1fdfb651b9a6e5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7664607
+file-id = 8750736
 project-id = 241665

@@ -1,0 +1,13 @@
+name = "SlashBlade: HF Blade"
+filename = "energyblade-2.1.7-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "411f21aabd272c8c3fc3cc53c944e687c7848d4a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8073054
+project-id = 1299888

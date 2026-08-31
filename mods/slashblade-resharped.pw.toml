@@ -1,0 +1,13 @@
+name = "SlashBlade: Resharped"
+filename = "SlashBladeResharped-2.0.7-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b68a8afa8b108704acf04c8b6f9071b4db16a349"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8739943
+project-id = 1022428
