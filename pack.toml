@@ -1,12 +1,12 @@
 name = "Neo Yokohama Race Cource"
 author = "Mecha"
-version = "2.8"
+version = "2.9"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "211dad5fca7dc17589dd8c29d32628b11ddcfea42fa26017aa4f9da83773b551"
+hash = "71537c131b9ab7b5a653588d2f8050b423b181b05e23162a1162b9691be94b2d"
 
 [versions]
 minecraft = "1.21.1"

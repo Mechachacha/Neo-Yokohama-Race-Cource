@@ -15,6 +15,11 @@ hash = "b34a8fe09536b089aaab8f625bda116047271e3cb44a7c9f5c2eea7aaadc4f30"
 metafile = true
 
 [[files]]
+file = "complementary-reimagined.pw.toml"
+hash = "8564732f041e5d269986d6a035b5e4d93e3c676d0806abb0c908f29d40293bbb"
+metafile = true
+
+[[files]]
 file = "complementary-unbound.pw.toml"
 hash = "d61f472861748619ff7298d8bc38bd5f2dcafe31e1e9d1da7c8563ee3c99b1a5"
 metafile = true
@@ -609,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "e3304daa476fa3ac90a018720d190fd366cf6e20e9ce33b5aa8d16b40eaf3446"
+hash = "3b1b6163af92aa709dbc1800f76654db759a6ae590a6dd1858509138e1a70d6c"
 metafile = true
 
 [[files]]
@@ -710,6 +715,11 @@ metafile = true
 [[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "e686bd63d4a2eff8640fae71d7e59799666335f8bf395da830ffb6bbfeb52325"
+metafile = true
+
+[[files]]
+file = "mods/dawn-of-time.pw.toml"
+hash = "4c4650aad9ed02311e07db9927cfa5dea95fbb74bc0ab5c0950abc4e329e4e41"
 metafile = true
 
 [[files]]
@@ -959,7 +969,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "401e1738b00110910e243d520022a158e8f11bf018fc27e485c012f3720ce97f"
+hash = "82271b1e9d999e52768efcc8857a23d17ab7a884faa7810f055a4f4f3dafe9bf"
 metafile = true
 
 [[files]]
@@ -1099,7 +1109,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
-hash = "e59293c20c6d0ee00836298f5e9ca5630f24df2a89f09e4fcb9efd24610e0ce7"
+hash = "9ebcb3e904449395fe047afa7b5ca0f88aaeafb5e0ae422b685d236ae5e404af"
 metafile = true
 
 [[files]]
@@ -1148,13 +1158,8 @@ hash = "2241c6df8b8f363310fb243490a7185d4800659c7d1ff4fc173248a41e9ed3eb"
 metafile = true
 
 [[files]]
-file = "mods/ixeris.pw.toml"
-hash = "255092f9dc14380788bc29d0b8adaee36b01c18852c069432169a326723942f3"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons.pw.toml"
-hash = "89420f657cec1038646f75531ae388e92d27c51c84b1f121e935ae5aecf995be"
+hash = "055b6a985f7b81ef953c5c516b56cd6889ef327e1789e2e2723860fa021817a5"
 metafile = true
 
 [[files]]
@@ -1244,7 +1249,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "c861621c655d44fe78279ddc76d5881fa4ad2fdf52c7ed3a84864b988a3e0b64"
+hash = "a18e3ccdf71e346bcd5f772c235ad9244aec9dfc128402486e91bffc807832a9"
 metafile = true
 
 [[files]]
@@ -1714,7 +1719,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6a07261762a29c6108ea6030ec71ff6801e03127a0004cf105490004c77eacf5"
+hash = "775097fcba4e4fecf8c6b5ac1984e361d0d069171e6c764929320b7fd1d86031"
 metafile = true
 
 [[files]]
@@ -1949,7 +1954,7 @@ metafile = true
 
 [[files]]
 file = "mods/starbunclemania.pw.toml"
-hash = "735fffbb398e32f2db1f6ad7b48a28d7a4ff0a8390275f79e781f07177a960e4"
+hash = "076c47a8fced6bdae716ae29814b218d562565ea0e34421dcf954b7525334d72"
 metafile = true
 
 [[files]]
@@ -2064,7 +2069,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "8bcf5e1090d99f4b1e448d4c02cb14ac450e53c466233e514315e069f179b6b9"
+hash = "1316f9c04d36621a61989319e047735fd83e4b0e951dd6c89318ff8b4dfc1b4d"
 metafile = true
 
 [[files]]
