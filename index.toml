@@ -563,6 +563,11 @@ hash = "6dc9e6eb0dd13df1244bf6e7272f5648221142b65be00713f5e9dc76ea223730"
 metafile = true
 
 [[files]]
+file = "mods/cooks-collection.pw.toml"
+hash = "6f3ca9bd523f79878881be9f87ee9f95191d39de3a3170107d727a66739ea7d5"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "8ff227007d3ea2f499193f04410000892bcc35b87572ae74d3f19494c6572368"
 metafile = true
