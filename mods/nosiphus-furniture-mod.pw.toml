@@ -1,13 +1,13 @@
 name = "MrCrayFish's Furniture Mod (Legacy Continued) + Nosiphus Furniture Mod"
-filename = "cfm+nfm-neoforge-2026.08.28-1.21.1.jar"
+filename = "cfm+nfm-neoforge-2026.09.12-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3f45a70df9bc3b049725531b6bb3e888ddc729ad"
+hash = "cb7a8fa90be09ae412bab3c60a6fa6227d46ab9e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8756345
+file-id = 8869207
 project-id = 593876
