@@ -428,11 +428,6 @@ hash = "5fbd5fb143ffbd2ea884f8738737eb5eba91f35bd23746b1bd055a41dfc5a4e9"
 metafile = true
 
 [[files]]
-file = "mods/caramel-chat.pw.toml"
-hash = "2356e35c072559218473fce6c76c9a8267f133e76ae74a5c2b85fab7efe2a25f"
-metafile = true
-
-[[files]]
 file = "mods/carbon-config.pw.toml"
 hash = "f2c200174b5797315f33dcbe733625529cdf7940500c923d7971a04eda202c83"
 metafile = true
@@ -1080,6 +1075,11 @@ metafile = true
 [[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "3fd3c85f4ac889ee87857be7c64e883efe6cb06de73ab7babf07521977912353"
+metafile = true
+
+[[files]]
+file = "mods/imblocker.pw.toml"
+hash = "d2211ed213d229d4327386e34309189d68c261638a434aa2c19df81c44a1b4bc"
 metafile = true
 
 [[files]]

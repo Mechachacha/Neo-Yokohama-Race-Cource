@@ -1,0 +1,13 @@
+name = "IMBlocker"
+filename = "IMBlocker-5.6.0-neoforge+1.20.6-1.21.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f45876fd802815a84ec0da777c8f1f93079969da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8821833
+project-id = 483760
