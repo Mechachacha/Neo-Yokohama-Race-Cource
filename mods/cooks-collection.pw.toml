@@ -1,13 +1,13 @@
 name = "Cook's Collection"
-filename = "cookscollection-0.5.8.jar"
+filename = "cookscollection-0.6.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9164d48b6622bd553893b433ae439a9505c8c414"
+hash = "46a4ec47cdb021ee2ecf9fdb5f54f7a6b6dc15dd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8876859
+file-id = 8937656
 project-id = 1222140
