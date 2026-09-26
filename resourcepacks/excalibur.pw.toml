@@ -1,13 +1,13 @@
 name = "Excalibur"
-filename = "Excalibur_V26.1_01.zip"
+filename = "Excalibur_V26.3_01.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f14f03d76c48e6c99a02ccefff0070c4fe3f110b"
+hash = "97348d602be6def05fdfa9eee339ac64be5badd6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8050237
+file-id = 8948603
 project-id = 326818
